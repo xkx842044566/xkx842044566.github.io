@@ -17,42 +17,45 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 🔥 Welcome!
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am Kexin Xie, currently a fourth-year Ph.D. student in the Department of Statistics at Virginia Tech (VT), under the supervision of Professor [Xinwei Deng](https://xwdeng80.github.io/). My research interests focus on developing data-driven approaches and tools by integrating knowledge from design of experiments, statistical learning, and machine learning/artificial intelligence (ML/AI). By bridging design and modeling perspectives, I address both theoretical challenges and practical applications, collaborating closely with domain experts to tackle real-world problems. My work spans diverse fields, including healthcare, biostatistics, economics, and engineering systems.
 
+Specifically, my research covers the following topics:
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Bi-level variable selection for high-dimensional data modeling.
+- Experimental design for systems with treatment cardinality constraint.
+- Uncertainty quantification with additive Gaussian Process.
+- Health and economic modeling for infectious disease interventions.
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## Peer-Reviewed Journal Articles
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- [Ruiz-Castillo, P., Imputiua, S., **Xie, K.**, Elobolobo, E., Nicolas, P., Montaña, J., ... & Sacoor, C. (2023). BOHEMIA a cluster randomized trial to assess the impact of an endectocide-based one health approach to malaria in Mozambique: baseline demographics and key malaria indicators. Malaria Journal, 22(1), 172.]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://link.springer.com/article/10.1186/s12936-023-04605-3))
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- [**Xie, K.**, Marathe, A., Deng, X., Ruiz-Castillo, P., Imputiua, S., Elobolobo, E., ... & Rist, C. (2023). Alternative approaches for creating a wealth index: the case of Mozambique. BMJ Global Health, 8(8), e012639.]([https://github.com](https://gh.bmj.com/content/8/8/e012639))
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- [**Xie, K.**, & Hlynka, M. (2019). Forward and Reverse Parking in a Parking Lot. Applied Mathematical Sciences, 13(22), 1091-1102.](https://arxiv.org/pdf/1909.12941)
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Xie, K.**, Marathe, A., Thakur, M., … & Vullikanti. A. (2024). A health and economic evaluation of the spatial spillover effect from measles resurgence. Scientific Reports (under review).
+
+## Journal Articles Ready to Submit
+- **Xie, K.**, & Deng, X. (2025). Bi-level variable selection of conditional main effects for generalized linear models. To be submitted.
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *08/2024* Fall Technical Conference Student Grant Awards. 
+- *05/2022* The Raymond H. Myers Award (top 1/18), by Virginia Tech Dept of Statistics.
+- *05/2022* The Best SAIG Short Course Development in 2022, by Virginia Tech SAIG.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *08/2021 - 05/2026 (expected)*, Virginia Tech, Ph.D. in Statistics. 
+- *09/2016 - 06/2020*, Dalian University of Technology, B.S. in Mathematics. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Experience
+- *08/2021 - 05/2022*, Teaching Assistant, Virginia Tech, USA.
+- *08/2022 - 02/2025 (now)*, Research Assistant, Virginia Tech, USA.
+- *05/2023 - 08/2023*, Summer Research Intern, Biocomplexity Institute, University of Virginia, USA
+- *05/2024 - 08/2024*, Ph.D. Summer Intern in Advanced Analytics, PJM Interconnection, USA.
