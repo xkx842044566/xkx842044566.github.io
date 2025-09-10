@@ -31,21 +31,29 @@ Specifically, my research covers the following topics:
 
 # 📝 Publications 
 
-## Peer-Reviewed Journal Articles
+## Selected Peer-Reviewed Journal Articles
+- **Xie, K.**, & Deng, X. (2025). Bi-level variable selection of conditional main effects for generalized linear models. Technometrics (accepted).
 
-- [Ruiz-Castillo, P., Imputiua, S., **Xie, K.**, Elobolobo, E., Nicolas, P., Montaña, J., ... & Sacoor, C. (2023). BOHEMIA a cluster randomized trial to assess the impact of an endectocide-based one health approach to malaria in Mozambique: baseline demographics and key malaria indicators. Malaria Journal, 22(1), 172.]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://link.springer.com/article/10.1186/s12936-023-04605-3))
+- **Xie, K.**, Wu, Y., Deng, X., and Giacomoni, A. (2025). The Big Data Era and Electricity Load Forecasting: Key Lessons from Virginia’s Data Centers Surge. Energy (accepted).
+
+- Lian, J., **Xie, K.**, …, and Deng, X. (2025). A Statistical Approach to Quality Evaluation of AI Mislabel Detection Algorithm. Quality Engineering (accepted).
+
+- [Guo, Q., Xie, K., and Deng, X. (2025). Discussion on "Statistical Solutions for Interdisciplinary Problem-Solving", Quality Engineering, 1-5.]([https://www-tandfonline-com.ezproxy.lib.vt.edu/doi/full/10.1080/08982112.2025.2512777])
 
 - [**Xie, K.**, Marathe, A., Deng, X., Ruiz-Castillo, P., Imputiua, S., Elobolobo, E., ... & Rist, C. (2023). Alternative approaches for creating a wealth index: the case of Mozambique. BMJ Global Health, 8(8), e012639.]([https://github.com](https://gh.bmj.com/content/8/8/e012639))
 
+- [Ruiz-Castillo, P., Imputiua, S., **Xie, K.**, Elobolobo, E., Nicolas, P., Montaña, J., ... & Sacoor, C. (2023). BOHEMIA a cluster randomized trial to assess the impact of an endectocide-based one health approach to malaria in Mozambique: baseline demographics and key malaria indicators. Malaria Journal, 22(1), 172.]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://link.springer.com/article/10.1186/s12936-023-04605-3))
+
 - [**Xie, K.**, & Hlynka, M. (2019). Forward and Reverse Parking in a Parking Lot. Applied Mathematical Sciences, 13(22), 1091-1102.](https://arxiv.org/pdf/1909.12941)
 
-- **Xie, K.**, Marathe, A., Thakur, M., … & Vullikanti. A. (2024). A health and economic evaluation of the spatial spillover effect from measles resurgence. Scientific Reports (under review).
+- **Xie, K.**, Otuko, R., …, and Rist, C. (2025). Trial-based cost-effectiveness analysis of ivermectin mass drug administration for malaria control in Kwale County, Kenya. The Lancet Infectious Diseases (minor revision, revision submitted).
 
-## Journal Articles Ready to Submit
-- **Xie, K.**, & Deng, X. (2025). Bi-level variable selection of conditional main effects for generalized linear models. To be submitted.
+- **Xie, K.**, Marathe, A., Thakur, M., … & Vullikanti. A. (2024). A health and economic evaluation of the spatial spillover effect from measles resurgence. Scientific Reports (minor revision, revision submitted).
 
 
 # 🎖 Honors and Awards
+- *06/2025* ASA Quality and Productivity Research Conference Travel Scholarship.
+- *06/2025* 2025 JMP-P&G Student-Early Career Travel Award.
 - *08/2024* Fall Technical Conference Student Grant Awards. 
 - *05/2022* The Raymond H. Myers Award (top 1/18), by Virginia Tech Dept of Statistics.
 - *05/2022* The Best SAIG Short Course Development in 2022, by Virginia Tech SAIG.
@@ -59,3 +67,4 @@ Specifically, my research covers the following topics:
 - *08/2022 - 02/2025 (now)*, Research Assistant, Virginia Tech, USA.
 - *05/2023 - 08/2023*, Summer Research Intern, Biocomplexity Institute, University of Virginia, USA
 - *05/2024 - 08/2024*, Ph.D. Summer Intern in Advanced Analytics, PJM Interconnection, USA.
+- *05/2025 - 08/2025*, Research Statistician & Software Developer, JMP Statistical Discovery, USA.
