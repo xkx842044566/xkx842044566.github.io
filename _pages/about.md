@@ -38,11 +38,11 @@ Specifically, my research covers the following topics:
 
 - Lian, J., **Xie, K.**, …, and Deng, X. (2025). A Statistical Approach to Quality Evaluation of AI Mislabel Detection Algorithm. Quality Engineering (accepted).
 
-- [Guo, Q., Xie, K., and Deng, X. (2025). Discussion on "Statistical Solutions for Interdisciplinary Problem-Solving", Quality Engineering, 1-5.]([https://www-tandfonline-com.ezproxy.lib.vt.edu/doi/full/10.1080/08982112.2025.2512777])
+- [Guo, Q., Xie, K., and Deng, X. (2025). Discussion on "Statistical Solutions for Interdisciplinary Problem-Solving", Quality Engineering, 1-5.](https://www-tandfonline-com.ezproxy.lib.vt.edu/doi/full/10.1080/08982112.2025.2512777)
 
-- [**Xie, K.**, Marathe, A., Deng, X., Ruiz-Castillo, P., Imputiua, S., Elobolobo, E., ... & Rist, C. (2023). Alternative approaches for creating a wealth index: the case of Mozambique. BMJ Global Health, 8(8), e012639.]([https://github.com](https://gh.bmj.com/content/8/8/e012639))
+- [**Xie, K.**, Marathe, A., Deng, X., Ruiz-Castillo, P., Imputiua, S., Elobolobo, E., ... & Rist, C. (2023). Alternative approaches for creating a wealth index: the case of Mozambique. BMJ Global Health, 8(8), e012639.](https://gh.bmj.com/content/8/8/e012639)
 
-- [Ruiz-Castillo, P., Imputiua, S., **Xie, K.**, Elobolobo, E., Nicolas, P., Montaña, J., ... & Sacoor, C. (2023). BOHEMIA a cluster randomized trial to assess the impact of an endectocide-based one health approach to malaria in Mozambique: baseline demographics and key malaria indicators. Malaria Journal, 22(1), 172.]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://link.springer.com/article/10.1186/s12936-023-04605-3))
+- [Ruiz-Castillo, P., Imputiua, S., **Xie, K.**, Elobolobo, E., Nicolas, P., Montaña, J., ... & Sacoor, C. (2023). BOHEMIA a cluster randomized trial to assess the impact of an endectocide-based one health approach to malaria in Mozambique: baseline demographics and key malaria indicators. Malaria Journal, 22(1), 172.](https://link-springer-com.ezproxy.lib.vt.edu/article/10.1186/s12936-023-04605-3)
 
 - [**Xie, K.**, & Hlynka, M. (2019). Forward and Reverse Parking in a Parking Lot. Applied Mathematical Sciences, 13(22), 1091-1102.](https://arxiv.org/pdf/1909.12941)
 
