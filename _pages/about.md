@@ -21,7 +21,7 @@ redirect_from:
 
 I am Kexin Xie, currently a fourth-year Ph.D. student in the Department of Statistics at Virginia Tech (VT), under the supervision of Professor [Xinwei Deng](https://xwdeng80.github.io/). My research interests focus on developing data-driven approaches and tools by integrating knowledge from design of experiments, statistical learning, and machine learning/artificial intelligence (ML/AI). By bridging design and modeling perspectives, I address both theoretical challenges and practical applications, collaborating closely with domain experts to tackle real-world problems. My work spans diverse fields, including healthcare, biostatistics, economics, and engineering systems.
 
-<strong><span style="color:#d73a49">Kexin is on the academic job market for the 2025–2026 cycle!</span></strong>
+**<span class="color-cycle">Kexin is on the academic job market for the 2025–2026 cycle!</span>**
 
 Specifically, my research covers the following topics:
 
