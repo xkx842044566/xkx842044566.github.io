@@ -31,7 +31,7 @@ Specifically, my research covers the following topics:
 - Health and economic modeling for infectious disease interventions.
 
 
-# 📝 Publications 
+# 📝 Publications{: #publications} 
 
 ## Selected Peer-Reviewed Journal Articles
 - **Xie, K.**, & Deng, X. (2025). Bi-level variable selection of conditional main effects for generalized linear models. Technometrics (accepted).
@@ -53,18 +53,18 @@ Specifically, my research covers the following topics:
 - **Xie, K.**, Marathe, A., Thakur, M., … & Vullikanti. A. (2024). A health and economic evaluation of the spatial spillover effect from measles resurgence. Scientific Reports (minor revision, revision submitted).
 
 
-# 🎖 Honors and Awards
+# 🎖 Honors and Awards{: #honors-and-awards}
 - *06/2025* ASA Quality and Productivity Research Conference Travel Scholarship.
 - *06/2025* 2025 JMP-P&G Student-Early Career Travel Award.
 - *08/2024* Fall Technical Conference Student Grant Awards. 
 - *05/2022* The Raymond H. Myers Award (top 1/18), by Virginia Tech Dept of Statistics.
 - *05/2022* The Best SAIG Short Course Development in 2022, by Virginia Tech SAIG.
 
-# 📖 Educations
+# 📖 Educations{: #education}
 - *08/2021 - 05/2026 (expected)*, Virginia Tech, Ph.D. in Statistics. 
 - *09/2016 - 06/2020*, Dalian University of Technology, B.S. in Mathematics. 
 
-# 💻 Experience
+# 💻 Experience{: #experience}
 - *08/2021 - 05/2022*, Teaching Assistant, Virginia Tech, USA.
 - *08/2022 - 02/2025 (now)*, Research Assistant, Virginia Tech, USA.
 - *05/2023 - 08/2023*, Summer Research Intern, Biocomplexity Institute, University of Virginia, USA
