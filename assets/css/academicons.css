@@ -324,4 +324,4 @@
 }
 .fa.fa-pull-right {
   margin-left: .3em;
-}
+}.text-accent { color:#d73a49 !important; }   /* red-ish accent */

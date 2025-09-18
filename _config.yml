@@ -27,8 +27,10 @@ author:
   location         : "Blacksburg, VA, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=aYOQk-cAAAAJ&hl=zh-CN&inst=13410158990364976897"
+  googlescholar    : "https://scholar.google.com/citations?user=aYOQk-cAAAAJ&hl=en&inst=13410158990364976897"
   email            : "kexinx@vt.edu"
+  linkedin         : "kexin-xie-4785b8197"
+  cv               : "https://drive.google.com/open?id=1uD9f1ZXYY03Yd-PAAYJr-LT_-WngHZwY&usp=drive_fs"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,7 +45,6 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
