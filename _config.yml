@@ -147,6 +147,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-seo-tag   
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -154,6 +155,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-seo-tag   
 
 
 # HTML Compression
