@@ -68,6 +68,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - googlefe827c4f9e1d5718.html
 exclude:
   - docs
   - google_scholar_crawler
