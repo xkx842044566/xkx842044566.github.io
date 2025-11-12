@@ -37,6 +37,8 @@ Specifically, my research covers the following topics:
 ## Selected Peer-Reviewed Journal Articles
 - **Xie, K.**, & Deng, X. (2025). Bi-level variable selection of conditional main effects for generalized linear models. Technometrics (accepted).
 
+- **Xie, K.**, Otuko, R., …, and Rist, C. (2025). Cost and cost-effectiveness of ivermectin mass drug administration for 1 malaria control in Kwale County, Kenya: a modelling analysis of data from a phase III cluster-randomized clinical trial. The Lancet Global Health (accepted).
+
 - [**Xie, K.**, Wu, Y., Deng, X., and Giacomoni, A. (2025). Bias calibration and error propagation adjustment for ML-based time series forecasting: A systematic study for PJM’s electricity load forecast amid Virginia’s data center surge. Energy, Volume 336, 138411, ISSN 0360-5442.](https://www.sciencedirect.com/science/article/pii/S0360544225040538)
 
 - [**Xie, K.**, Marathe, A., Thakur, M., Chen, J., Deng, X., & Vullikanti, A. (2025). A health and economic evaluation of the spatial spillover effect from measles resurgence. Scientific Reports, 15(1), 35862.](https://www-nature-com.ezproxy.lib.vt.edu/articles/s41598-025-21097-0)
@@ -50,8 +52,6 @@ Specifically, my research covers the following topics:
 - [Ruiz-Castillo, P., Imputiua, S., **Xie, K.**, Elobolobo, E., Nicolas, P., Montaña, J., ... & Sacoor, C. (2023). BOHEMIA a cluster randomized trial to assess the impact of an endectocide-based one health approach to malaria in Mozambique: baseline demographics and key malaria indicators. Malaria Journal, 22(1), 172.](https://link-springer-com.ezproxy.lib.vt.edu/article/10.1186/s12936-023-04605-3)
 
 - [**Xie, K.**, & Hlynka, M. (2019). Forward and Reverse Parking in a Parking Lot. Applied Mathematical Sciences, 13(22), 1091-1102.](https://arxiv.org/pdf/1909.12941)
-
-- **Xie, K.**, Otuko, R., …, and Rist, C. (2025). Trial-based cost-effectiveness analysis of ivermectin mass drug administration for malaria control in Kwale County, Kenya. The Lancet Infectious Diseases (accepted).
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
