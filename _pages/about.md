@@ -51,7 +51,7 @@ Specifically, my research covers the following topics:
 
 - [**Xie, K.**, & Hlynka, M. (2019). Forward and Reverse Parking in a Parking Lot. Applied Mathematical Sciences, 13(22), 1091-1102.](https://arxiv.org/pdf/1909.12941)
 
-- **Xie, K.**, Otuko, R., …, and Rist, C. (2025). Trial-based cost-effectiveness analysis of ivermectin mass drug administration for malaria control in Kwale County, Kenya. The Lancet Infectious Diseases (Temporarily accepted).
+- **Xie, K.**, Otuko, R., …, and Rist, C. (2025). Trial-based cost-effectiveness analysis of ivermectin mass drug administration for malaria control in Kwale County, Kenya. The Lancet Infectious Diseases (accepted).
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
