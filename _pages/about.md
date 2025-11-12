@@ -37,7 +37,7 @@ Specifically, my research covers the following topics:
 ## Selected Peer-Reviewed Journal Articles
 - **Xie, K.**, & Deng, X. (2025). Bi-level variable selection of conditional main effects for generalized linear models. Technometrics (accepted).
 
-- **Xie, K.**, Otuko, R., …, and Rist, C. (2025). Cost and cost-effectiveness of ivermectin mass drug administration for 1 malaria control in Kwale County, Kenya: a modelling analysis of data from a phase III cluster-randomized clinical trial. The Lancet Global Health (accepted).
+- **Xie, K.**, Otuko, R., …, and Rist, C. (2025). Cost and cost-effectiveness of ivermectin mass drug administration for malaria control in Kwale County, Kenya: a modelling analysis of data from a phase III cluster-randomized clinical trial. The Lancet Global Health (accepted).
 
 - [**Xie, K.**, Wu, Y., Deng, X., and Giacomoni, A. (2025). Bias calibration and error propagation adjustment for ML-based time series forecasting: A systematic study for PJM’s electricity load forecast amid Virginia’s data center surge. Energy, Volume 336, 138411, ISSN 0360-5442.](https://www.sciencedirect.com/science/article/pii/S0360544225040538)
 
